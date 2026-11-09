@@ -30,8 +30,6 @@ A interface foi desenvolvida considerando as necessidades da cliente, priorizand
 
 **Ingryd Bacelar**
 
-Projeto desenvolvido sob demanda, com soluções personalizadas de acordo com as necessidades da cliente.
-
 > © 2026 Ingryd Bacelar. Todos os direitos reservados.
 
 > Este projeto é disponibilizado exclusivamente para fins de demonstração e portfólio. É proibida a reprodução, cópia, modificação, distribuição ou utilização comercial do código sem autorização prévia da autora.
